@@ -422,7 +422,6 @@ header #menu {
 .contact form .send {
   position: relative;
   padding: 3rem 0;
-  z-index: -1;
 }
 
 .contact form .send input {
