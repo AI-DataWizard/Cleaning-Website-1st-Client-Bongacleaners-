@@ -149,7 +149,7 @@ header #menu {
   justify-content: center;
   min-height: 100vh;
   background: linear-gradient(rgba(0, 0, 0), rgba(0, 0, 0, 0.05)),
-    url(bongacleanershome1.jpg);
+    url("bongacleanershome1.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
