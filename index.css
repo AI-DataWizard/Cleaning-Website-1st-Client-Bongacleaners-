@@ -570,6 +570,10 @@ header #menu {
     font-size: 57.5%;
   }
 
+  header .logo #icon{
+    display:none;
+  }
+
   header .navbar {
     position: fixed;
     top: -1000%;
@@ -609,6 +613,7 @@ header #menu {
     z-index: -1;
     background: var(--black);
   }
+  
   header #menu {
     display: flex;
   }
