@@ -286,15 +286,16 @@ header #menu {
 .services .box-con .box:hover p {
   color: var(--lbg);
 }
-.services .box-con .box:hover .filter {
-  filter: invert(1);
+.services .box-con .box:hover img {
+  border-color: var(--white);
 }
-.services .box-con .box:hover .filter.active {
-  filter: none;
-}
+
 .services .box-con .box img {
-  height: 15rem;
+  height: 25rem;
   margin-bottom: 0.5rem;
+  object-fit: cover;
+  width: 100%;
+  border: var(--border);
 }
 .services .box-con .box h3 {
   padding: 1rem 0;
